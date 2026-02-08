@@ -43,16 +43,13 @@ Our analysis confirms that **ECC is significantly superior** for IoT application
     * `ssl`: For handling the TLS Cipher suite specifications.
 
 ## 📸 Visual Analysis
-*(Upload the graphs from your PDF report here)*
-
-![Handshake Comparison](<img width="1182" height="364" alt="TLS performance graphs" src="https://github.com/user-attachments/assets/d6d0bb5e-da04-4125-a71d-feea92ad755d" />
-)
+![Handshake Comparison](<TLS performance graphs.png>)
 *Figure 1: Average TLS Handshake time (Lower is better).*
 
 ## 🔧 Run the Benchmark
-```python
+```bash
 # Clone the repo
-git clone [https://github.com/shaurya-jain-dev/iot-tls-performance-analysis.git](https://github.com/shaurya-jain-dev/iot-tls-performance-analysis.git)
+git clone [https://github.com/Shauryaj20/IoT-TLS-Performance-Aanalysis.git](https://github.com/Shauryaj20/IoT-TLS-Performance-Aanalysis.git)
 
 # Install requirements
 pip install paho-mqtt psutil
