@@ -49,7 +49,7 @@ Our analysis confirms that **ECC is significantly superior** for IoT application
 ## 🔧 Run the Benchmark
 ```bash
 # Clone the repo
-git clone [https://github.com/Shauryaj20/IoT-TLS-Performance-Aanalysis.git](https://github.com/Shauryaj20/IoT-TLS-Performance-Aanalysis.git)
+git clone [https://github.com/Shauryaj20/IoT-TLS-Performance-Analysis.git](https://github.com/Shauryaj20/IoT-TLS-Performance-Analysis.git)
 
 # Install requirements
 pip install paho-mqtt psutil
