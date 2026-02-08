@@ -44,7 +44,7 @@ Our analysis confirms that **ECC is significantly superior** for IoT application
 
 ## 📸 Visual Analysis
 ![Handshake Comparison](<TLS performance graphs.png>)
-*Figure 1: Average TLS Handshake time (Lower is better).*
+*Figure 1: Average TLS Handshake time (Lower is better).*      *Figure 1: Average CPU usage (Lower is better).*
 
 ## 🔧 Run the Benchmark
 ```bash
